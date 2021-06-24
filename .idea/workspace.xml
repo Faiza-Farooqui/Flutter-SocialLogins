@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6dc2b8e7-2a82-449c-9e44-7c9dde415065" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1uFbjMg4i3gFnx8CtyUua8WIsu1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../office/my_staff_flutter_app" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6dc2b8e7-2a82-449c-9e44-7c9dde415065" name="Default Changelist" comment="" />
+      <created>1624264418640</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624264418640</updated>
+    </task>
+    <task id="LOCAL-00001" summary="chenged README.md file">
+      <created>1624264702817</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1624264702817</updated>
+    </task>
+    <task id="LOCAL-00002" summary="changed README.md file">
+      <created>1624265141779</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1624265141779</updated>
+    </task>
+    <task id="LOCAL-00003" summary="changed README.md file">
+      <created>1624265320329</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1624265320329</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="chenged README.md file" />
+    <MESSAGE value="changed README.md file" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed README.md file" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="139" y="0" key="CommitChangelistDialog2" timestamp="1624265319674">
+      <screen x="0" y="0" width="1024" height="738" />
+    </state>
+    <state x="139" y="0" key="CommitChangelistDialog2/0.0.1024.738@0.0.1024.738" timestamp="1624265319674" />
+    <state x="104" y="101" key="Vcs.Push.Dialog.v2" timestamp="1624265325811">
+      <screen x="0" y="0" width="1024" height="738" />
+    </state>
+    <state x="104" y="101" key="Vcs.Push.Dialog.v2/0.0.1024.738@0.0.1024.738" timestamp="1624265325811" />
+    <state x="276" y="270" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1624507458379">
+      <screen x="0" y="0" width="1024" height="738" />
+    </state>
+    <state x="276" y="270" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1024.738@0.0.1024.738" timestamp="1624507458379" />
+  </component>
+</project>
